@@ -1,10 +1,9 @@
 # Nacer Redjah
 
-### Étudiant en informatique — DevOps, Infrastructure Cloud & Cybersécurité
+### Étudiant en informatique — DevOps, Réseaux & Systémes, Cybersécurité
 
 Étudiant en Master Informatique à l'Université Claude Bernard Lyon 1, orienté systèmes,
-réseaux, automatisation, supervision et cybersécurité. Je recherche une alternance à
-partir de septembre 2026.
+réseaux et cybersécurité. Je recherche une alternance à partir de septembre 2026.
 
 Portfolio : [nacer-redjah-portfolio.netlify.app](https://nacer-redjah-portfolio.netlify.app)
 Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nacer-redjah)
@@ -23,7 +22,6 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/KVM-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### DevOps, automatisation & CI/CD
@@ -34,7 +32,6 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 
 <p>
   <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud--Init-0F172A?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible%20Semaphore-111827?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -112,9 +109,19 @@ des flux.
 - Monitoring : suivi temps réel des données d'approvisionnement
 - Collaboration avec l'équipe IT, documentation technique, suivi des incidents
 
-<img src="https://skillicons.dev/icons?i=java,git" />
+**Stack :**
 
-`JSF` `Maven` `Payara` `SQL Server` `CI/CD`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JSF-0F172A?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payara-00A6D6?style=for-the-badge&logo=payara&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
 ---
 

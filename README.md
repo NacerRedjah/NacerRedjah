@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,ansible,kubernetes,python,java" />
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,prometheus,python,java" />
 
 # Nacer Redjah
 
@@ -69,7 +69,7 @@ techniques.
 *Projet académique encadré — USTHB*
 
 Conception d'un cluster Proxmox haute disponibilité sur 3 nœuds, avec migration à
-chaud, automatisation de plus de 50 machines virtuelles via Ansible, supervision des
+chaud, provisioning automatisé de machines virtuelles via Ansible, supervision des
 métriques et alerting.
 
 **Stack :** Proxmox · Ansible · Prometheus · Grafana · Alertmanager · Linux · Bash
@@ -83,7 +83,7 @@ Backend Node.js/Express, authentification, base PostgreSQL, conteneurisation Doc
 tests automatisés, pipeline GitLab CI/CD et déploiement sur VM.
 
 **Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Nginx · SonarQube
-**Résultats :** 6 personnes en équipe · 100% déploiement automatisé
+**Résultats :** 6 personnes en équipe · pipeline CI/CD opérationnel · déploiement automatisé sur VM
 **Documentation :** [présentation du projet (PDF)](docs/presentation-projet-web.pdf)
 
 ### 🔹 Analyse de Risques Cyber avec IA et Big Data
@@ -105,14 +105,14 @@ proactive de détection et d'aide à la décision.
 **Air Algérie (DSI) · Février 2024 – Juin 2024**
 
 Conception et développement d'une application interne de gestion d'approvisionnement,
-de l'analyse des besoins métier jusqu'à la mise en production.
+de l'analyse des besoins métier jusqu'au déploiement et à la validation avec l'équipe IT.
 
 - Analyse & conception : recueil des besoins métier, conception de l'application
 - Développement full-stack : backend Java EE/JSF sur serveur Payara, base SQL Server
 - Build & intégration : automatisation du build avec Maven, premiers éléments de
   pipeline d'intégration ; une partie du déploiement restait manuelle
 - Versioning : Git pour la gestion de version de l'équipe
-- Suivi : documentation technique, suivi des incidents en environnement de production
+- Suivi : documentation technique, tests, corrections et validation avec l'équipe IT
 
 `Java EE` `JSF` `Maven` `Payara` `SQL Server` `Git`
 
@@ -175,8 +175,7 @@ infrastructure as code, high availability and making technical environments reli
 ### 🔹 Proxmox Cloud Infrastructure & Automation
 *Supervised academic project — USTHB*
 
-Designed a 3-node high-availability Proxmox cluster with live migration, automated
-provisioning of 50+ virtual machines via Ansible, metrics monitoring and alerting.
+Designed a 3-node high-availability Proxmox cluster with live migration, automated VM provisioning with Ansible, metrics monitoring and alerting.
 
 **Stack:** Proxmox · Ansible · Prometheus · Grafana · Alertmanager · Linux · Bash
 **Results:** 3 HA nodes · Automated provisioning validated on a batch of 5 VMs. · Live migration validated without packet loss.
@@ -189,7 +188,7 @@ Node.js/Express backend, authentication, PostgreSQL database, Docker
 containerization, automated tests, GitLab CI/CD pipeline and VM deployment.
 
 **Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Nginx · SonarQube
-**Results:** team of 6 · 100% automated deployment
+**Results:** team of 6 · operational CI/CD pipeline · automated deployment to a VM
 **Documentation:** [project presentation (PDF)](docs/presentation-projet-web.pdf)
 
 ### 🔹 Cyber Risk Analysis with AI and Big Data
@@ -211,14 +210,14 @@ decision-support method.
 **Air Algérie (IT Department) · February 2024 – June 2024**
 
 Design and development of an internal procurement management application, from
-business requirements analysis through to production deployment.
+business requirements analysis through deployment and validation with the IT team.
 
 - Analysis & design: business requirements gathering, application design
 - Full-stack development: Java EE/JSF backend on Payara server, SQL Server database
 - Build & integration: build automation with Maven, early integration pipeline
   components; part of the deployment remained manual
 - Versioning: Git for team version control
-- Follow-up: technical documentation, incident tracking in a production environment
+- Follow-up: technical documentation, testing, fixes and validation with the IT team
 
 `Java EE` `JSF` `Maven` `Payara` `SQL Server` `Git`
 
@@ -228,7 +227,7 @@ business requirements analysis through to production deployment.
 
 | Period | Program | Institution |
 |---|---|---|
-| 2026 → 2027 | Master 2 — application in progress (Systems, Networks, Security) | Université Claude Bernard Lyon 1 |
+| 2026 → 2027 | Master 2 — admission in progress / planned continuation (Systems, Networks, Security) | Université Claude Bernard Lyon 1 |
 | 2025 – 2026 | Master 1 Computer Science | Université Claude Bernard Lyon 1 |
 | 2024 – 2025 | Master 1 Networks and Distributed Systems | USTHB |
 | 2021 – 2024 | Bachelor's in Information Systems & Software Engineering | USTHB |

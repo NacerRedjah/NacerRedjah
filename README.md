@@ -53,7 +53,7 @@ techniques.
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,ansible,git,gitlab,prometheus,grafana,python,java,postgresql" />
 
-`Proxmox` `Active Directory` `GitLab CI/CD` `AlertManager`
+`Proxmox` `Active Directory` `GitLab CI/CD` `Alertmanager`
 
 **Notions / exposition académique**
 
@@ -72,8 +72,8 @@ Conception d'un cluster Proxmox haute disponibilité sur 3 nœuds, avec migratio
 chaud, automatisation de plus de 50 machines virtuelles via Ansible, supervision des
 métriques et alerting.
 
-**Stack :** Proxmox · Ansible · Prometheus · Grafana · AlertManager · Linux · Bash
-**Résultats :** 3 nœuds HA · 50+ VMs automatisées · 0 interruption de service
+**Stack :** Proxmox · Ansible · Prometheus · Grafana · Alertmanager · Linux · Bash
+**Résultats :** 3 nœuds HA · provisioning automatisé validé sur un lot de 5 VM  · live migration validée sans perte de paquets
 **Documentation :** [compte-rendu de projet (PDF)](docs/rapport-projet-proxmox.pdf)
 
 ### 🔹 Application Web Collaborative avec CI/CD
@@ -82,7 +82,7 @@ métriques et alerting.
 Backend Node.js/Express, authentification, base PostgreSQL, conteneurisation Docker,
 tests automatisés, pipeline GitLab CI/CD et déploiement sur VM.
 
-**Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Tomcat · Nginix · SonarQube
+**Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Nginx · SonarQube
 **Résultats :** 6 personnes en équipe · 100% déploiement automatisé
 **Documentation :** [présentation du projet (PDF)](docs/presentation-projet-web.pdf)
 
@@ -160,7 +160,7 @@ infrastructure as code, high availability and making technical environments reli
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,ansible,git,gitlab,prometheus,grafana,python,java,postgresql" />
 
-`Proxmox` `Active Directory` `GitLab CI/CD` `AlertManager`
+`Proxmox` `Active Directory` `GitLab CI/CD` `Alertmanager`
 
 **Familiar with / academic exposure**
 
@@ -178,8 +178,8 @@ infrastructure as code, high availability and making technical environments reli
 Designed a 3-node high-availability Proxmox cluster with live migration, automated
 provisioning of 50+ virtual machines via Ansible, metrics monitoring and alerting.
 
-**Stack:** Proxmox · Ansible · Prometheus · Grafana · AlertManager · Linux · Bash
-**Results:** 3 HA nodes · 50+ automated VMs · 0 service downtime
+**Stack:** Proxmox · Ansible · Prometheus · Grafana · Alertmanager · Linux · Bash
+**Results:** 3 HA nodes · Automated provisioning validated on a batch of 5 VMs. · Live migration validated without packet loss.
 **Documentation:** [project report (PDF)](docs/rapport-projet-proxmox.pdf)
 
 ### 🔹 Collaborative Web App with CI/CD
@@ -188,7 +188,7 @@ provisioning of 50+ virtual machines via Ansible, metrics monitoring and alertin
 Node.js/Express backend, authentication, PostgreSQL database, Docker
 containerization, automated tests, GitLab CI/CD pipeline and VM deployment.
 
-**Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Tomcat · Nginix · SonarQube
+**Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Nginx · SonarQube
 **Results:** team of 6 · 100% automated deployment
 **Documentation:** [project presentation (PDF)](docs/presentation-projet-web.pdf)
 

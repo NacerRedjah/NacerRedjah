@@ -13,21 +13,41 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 
 ## Stack technique
 
-**Systèmes & Infrastructure**
+**Systèmes & Virtualisation**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,windows,vmware" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vmware" />
 
-**DevOps & Cloud**
+`Active Directory` `Proxmox` `VirtualBox`
 
-<img src="https://skillicons.dev/icons?i=docker,ansible,gitlab,jenkins,terraform,kubernetes,aws,azure" />
+**Cloud & DevOps**
 
-**Monitoring & Réseaux**
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,bash,kubernetes,ansible,azure" />
+
+`PowerShell` `OpenStack` `CI/CD`
+
+**Réseaux**
+
+`TCP/IP` `IPv4/IPv6` `Routage` `VLAN` `LAN/WAN` `Segmentation réseau`
+
+**Monitoring & Observabilité**
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
-**Développement & Sécurité**
+`AlertManager` `Analyse de logs`
 
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,postgresql,mysql" />
+**Sécurité**
+
+`Analyse de risques` `IAM` `Authentification` `Contrôle d'accès` `Cryptographie` `Chiffrement`
+
+**Développement & Bases de données**
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql" />
+
+`Microsoft SQL Server` `Oracle`
+
+**Méthodologies**
+
+`Scrum` `Agile` `Travail en équipe` `Gestion de projet collaborative` `Documentation technique`
 
 ---
 

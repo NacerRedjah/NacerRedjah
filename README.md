@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="#version-française">
+<a href="#version-francaise">
   <img src="https://img.shields.io/badge/🇫🇷_Lire_en_Français-1F4E78?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
@@ -28,6 +28,8 @@
 ---
 
 <br>
+
+<a id="version-francaise"></a>
 
 # 🇫🇷 Version Française
 
@@ -136,6 +138,8 @@ avant la poursuite en Master 2.*
 ---
 
 <br>
+
+<a id="english-version"></a>
 
 # 🇬🇧 English Version
 

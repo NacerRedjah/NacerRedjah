@@ -82,19 +82,18 @@ métriques et alerting.
 Backend Node.js/Express, authentification, base PostgreSQL, conteneurisation Docker,
 tests automatisés, pipeline GitLab CI/CD et déploiement sur VM.
 
-**Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · SonarQube
+**Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Tomcat · Nginix · SonarQube
 **Résultats :** 6 personnes en équipe · 100% déploiement automatisé
 **Documentation :** [présentation du projet (PDF)](docs/presentation-projet-web.pdf)
 
 ### 🔹 Analyse de Risques Cyber avec IA et Big Data
 *Projet de recherche — UCBL*
 
-Étude combinant Big Data et IA générative (agents LLM, architecture RAG) pour
+Étude combinant Big Data et IA générative pour
 l'analyse de menaces cyber, en évoluant d'une approche réactive vers une démarche
 proactive de détection et d'aide à la décision.
 
 **Stack :** Python · RAG · LLM · Big Data
-**Résultats :** ~85% de précision vs analyse manuelle
 **Documentation :** [revue de littérature, ma contribution (PDF)](docs/revue-litterature-ia-cyber.pdf)
 
 > Mes projets personnels et expérimentations en cours sont versionnés au fil du temps
@@ -189,19 +188,18 @@ provisioning of 50+ virtual machines via Ansible, metrics monitoring and alertin
 Node.js/Express backend, authentication, PostgreSQL database, Docker
 containerization, automated tests, GitLab CI/CD pipeline and VM deployment.
 
-**Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · SonarQube
+**Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · Tomcat · Nginix · SonarQube
 **Results:** team of 6 · 100% automated deployment
 **Documentation:** [project presentation (PDF)](docs/presentation-projet-web.pdf)
 
 ### 🔹 Cyber Risk Analysis with AI and Big Data
 *Research project — UCBL*
 
-Study combining Big Data and generative AI (LLM agents, RAG architecture) for cyber
+Study combining Big Data and generative AI for cyber
 threat analysis, moving from a reactive approach to a proactive detection and
 decision-support method.
 
 **Stack:** Python · RAG · LLM · Big Data
-**Results:** ~85% accuracy vs manual analysis
 **Documentation:** [literature review, my contribution (PDF)](docs/revue-litterature-ia-cyber.pdf)
 
 > My personal projects and ongoing experiments are progressively versioned on this

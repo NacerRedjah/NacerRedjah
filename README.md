@@ -19,6 +19,7 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=blue" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
@@ -137,7 +138,7 @@ présentés en détail, avec contexte et résultats, sur mon
 
 | Période | Formation | Établissement |
 |---|---|---|
-| 2026 → | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
+| 2026 → 2027 | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
 | 2025 – 2026 | Master 1 Informatique | Université Claude Bernard Lyon 1 |
 | 2024 – 2025 | Master 1 Réseaux et Systèmes Distribués | USTHB |
 | 2021 – 2024 | Licence Ingénierie des Systèmes d'Information et Logiciels | USTHB |

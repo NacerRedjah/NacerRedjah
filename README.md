@@ -1,152 +1,250 @@
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,kubernetes,python,java" />
+
 # Nacer Redjah
 
-### Étudiant en informatique — DevOps, Réseaux & Systémes, Cybersécurité
+### 🇫🇷 Étudiant en informatique — DevOps, Infrastructure Cloud & Cybersécurité
+### 🇬🇧 Computer Science Student — DevOps, Cloud Infrastructure & Cybersecurity
 
-Étudiant en Master Informatique à l'Université Claude Bernard Lyon 1, orienté systèmes,
-réseaux et cybersécurité. Je recherche une alternance à partir de septembre 2026.
+<br>
 
-Portfolio : [nacer-redjah-portfolio.netlify.app](https://nacer-redjah-portfolio.netlify.app)
-Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nacer-redjah)
+<a href="#version-française">
+  <img src="https://img.shields.io/badge/🇫🇷_Lire_en_Français-1F4E78?style=for-the-badge" />
+</a>
+&nbsp;&nbsp;
+<a href="#english-version">
+  <img src="https://img.shields.io/badge/🇬🇧_Read_in_English-2C5AA0?style=for-the-badge" />
+</a>
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3DDC97?style=flat-square&logo=netlify&logoColor=white)](https://nacer-redjah-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nacer-redjah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nacer.rdj@gmail.com)
+
+</div>
 
 ---
+
+<br>
+
+# 🇫🇷 Version Française
+
+<div align="center">
+
+**Disponible pour une alternance dès septembre 2026**
+Lyon · Paris/IDF · Grenoble · Toulouse — 12 mois, rythme 2 sem. entreprise / 2 sem. école
+
+</div>
+
+<br>
+
+## Profil
+
+Étudiant en Master Informatique à l'Université Claude Bernard Lyon 1, orienté
+systèmes, réseaux, automatisation, supervision et cybersécurité. Je m'intéresse à
+l'infrastructure as code, la haute disponibilité et la fiabilisation des environnements
+techniques.
 
 ## Stack technique
 
-### Systèmes, virtualisation & cloud privé
+**Compétences pratiquées**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ansible,git,gitlab,prometheus,grafana,python,java,postgresql" />
 
-<p>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
+`Proxmox` `Active Directory` `GitLab CI/CD` `AlertManager`
 
-### DevOps, automatisation & CI/CD
+**Notions / exposition académique**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,bash,kubernetes,ansible,azure&theme=dark&perline=8" />
-</p>
+`Kubernetes` `Azure` `OpenStack` `Terraform` `IAM` `SIEM/EDR`
 
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible%20Semaphore-111827?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
+**Réseaux**
 
-### Monitoring & observabilité
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark&perline=8" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20Exporter-0F172A?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logs%20%26%20Alerting-111827?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-### Réseaux
-
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IPv4%2FIPv6-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DNS-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DHCP-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLAN-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Routage-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Segmentation%20réseau-0F172A?style=for-the-badge" />
-</p>
-
-### Cybersécurité
-
-<p>
-  <img src="https://img.shields.io/badge/Analyse%20de%20risques-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-111827?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Authentification-111827?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contrôle%20d'accès-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chiffrement-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</p>
-
-### Développement & bases de données
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql,maven&theme=dark&perline=11" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSF-0F172A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payara-00A6D6?style=for-the-badge&logo=payara&logoColor=white" />
-</p>
-
-### Méthodologies
-
-<p>
-  <img src="https://img.shields.io/badge/Scrum-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Travail%20en%20équipe-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Documentation%20technique-0F172A?style=for-the-badge" />
-</p>
-
-
-## Expérience
-
-**Stage de fin d'études — Système de gestion d'approvisionnement**
-*Air Algérie (DSI) · Février 2024 – Juin 2024*
-
-Conception et développement d'une application interne de gestion d'approvisionnement,
-de l'analyse des besoins métier jusqu'à la mise en production, avec un suivi temps réel
-des flux.
-
-- Analyse & conception : recueil des besoins métier, conception de l'application
-- Développement full-stack : backend Java EE/JSF sur Payara, base SQL Server
-- Intégration continue : Git, pipeline CI/CD.
-- Monitoring : suivi temps réel des données d'approvisionnement
-- Collaboration avec l'équipe IT, documentation technique, suivi des incidents
-
-**Stack :**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/JSF-0F172A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payara-00A6D6?style=for-the-badge&logo=payara&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
----
+`TCP/IP` `IPv4/IPv6` `VLAN` `LAN/WAN` `Segmentation réseau`
 
 ## Projets
 
-Mes projets académiques techniques (infrastructure, DevOps, IA appliquée à la sécurité) sont
-présentés en détail, avec contexte et résultats, sur mon
-[portfolio](https://nacer-redjah-portfolio.netlify.app/#projets).
+### 🔹 Infrastructure Cloud Proxmox & Automatisation
+*Projet académique encadré — USTHB*
 
----
+Conception d'un cluster Proxmox haute disponibilité sur 3 nœuds, avec migration à
+chaud, automatisation de plus de 50 machines virtuelles via Ansible, supervision des
+métriques et alerting.
+
+**Stack :** Proxmox · Ansible · Prometheus · Grafana · AlertManager · Linux · Bash
+**Résultats :** 3 nœuds HA · 50+ VMs automatisées · 0 interruption de service
+**Documentation :** [compte-rendu de projet (PDF)](docs/rapport-projet-proxmox.pdf)
+
+### 🔹 Application Web Collaborative avec CI/CD
+*Projet transversal — UCBL, équipe de 6*
+
+Backend Node.js/Express, authentification, base PostgreSQL, conteneurisation Docker,
+tests automatisés, pipeline GitLab CI/CD et déploiement sur VM.
+
+**Stack :** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · SonarQube
+**Résultats :** 6 personnes en équipe · 100% déploiement automatisé
+**Documentation :** [présentation du projet (PDF)](docs/presentation-projet-web.pdf)
+
+### 🔹 Analyse de Risques Cyber avec IA et Big Data
+*Projet de recherche — UCBL*
+
+Étude combinant Big Data et IA générative (agents LLM, architecture RAG) pour
+l'analyse de menaces cyber, en évoluant d'une approche réactive vers une démarche
+proactive de détection et d'aide à la décision.
+
+**Stack :** Python · RAG · LLM · Big Data
+**Résultats :** ~85% de précision vs analyse manuelle
+**Documentation :** [revue de littérature, ma contribution (PDF)](docs/revue-litterature-ia-cyber.pdf)
+
+> Mes projets personnels et expérimentations en cours sont versionnés au fil du temps
+> sur ce profil GitHub.
+
+## Expérience
+
+### Stage de fin d'études — Système de gestion d'approvisionnement
+**Air Algérie (DSI) · Février 2024 – Juin 2024**
+
+Conception et développement d'une application interne de gestion d'approvisionnement,
+de l'analyse des besoins métier jusqu'à la mise en production.
+
+- Analyse & conception : recueil des besoins métier, conception de l'application
+- Développement full-stack : backend Java EE/JSF sur serveur Payara, base SQL Server
+- Build & intégration : automatisation du build avec Maven, premiers éléments de
+  pipeline d'intégration ; une partie du déploiement restait manuelle
+- Versioning : Git pour la gestion de version de l'équipe
+- Suivi : documentation technique, suivi des incidents en environnement de production
+
+`Java EE` `JSF` `Maven` `Payara` `SQL Server` `Git`
+
+**Documentation :** [rapport de stage complet (PDF)](docs/rapport-stage-air-algerie.pdf)
 
 ## Parcours académique
 
 | Période | Formation | Établissement |
 |---|---|---|
-| 2026 → 2027 | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
+| 2026 → | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
 | 2025 – 2026 | Master 1 Informatique | Université Claude Bernard Lyon 1 |
 | 2024 – 2025 | Master 1 Réseaux et Systèmes Distribués | USTHB |
 | 2021 – 2024 | Licence Ingénierie des Systèmes d'Information et Logiciels | USTHB |
 
+*Le Master 1 Réseaux (USTHB) a été suivi avant mon arrivée à Lyon 1 ; le Master 1
+Informatique à Lyon 1 a permis une transition vers le système universitaire français
+avant la poursuite en Master 2.*
+
+<br>
+
 ---
 
-### Disponibilité
+<br>
 
-Alternance de 12 mois, rythme 2 semaines entreprise / 2 semaines école, à partir de
-septembre 2026 — mobile sur Lyon, Paris/IDF, Grenoble et Toulouse.
+# 🇬🇧 English Version
+
+<div align="center">
+
+**Open to a work-study program (alternance) from September 2026**
+Lyon · Paris area · Grenoble · Toulouse — 12 months, 2 weeks company / 2 weeks school
+
+</div>
+
+<br>
+
+## Profile
+
+Computer Science Master's student at Université Claude Bernard Lyon 1, focused on
+systems, networks, automation, monitoring and cybersecurity. I'm interested in
+infrastructure as code, high availability and making technical environments reliable.
+
+## Tech Stack
+
+**Hands-on skills**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,ansible,git,gitlab,prometheus,grafana,python,java,postgresql" />
+
+`Proxmox` `Active Directory` `GitLab CI/CD` `AlertManager`
+
+**Familiar with / academic exposure**
+
+`Kubernetes` `Azure` `OpenStack` `Terraform` `IAM` `SIEM/EDR`
+
+**Networking**
+
+`TCP/IP` `IPv4/IPv6` `VLAN` `LAN/WAN` `Network segmentation`
+
+## Projects
+
+### 🔹 Proxmox Cloud Infrastructure & Automation
+*Supervised academic project — USTHB*
+
+Designed a 3-node high-availability Proxmox cluster with live migration, automated
+provisioning of 50+ virtual machines via Ansible, metrics monitoring and alerting.
+
+**Stack:** Proxmox · Ansible · Prometheus · Grafana · AlertManager · Linux · Bash
+**Results:** 3 HA nodes · 50+ automated VMs · 0 service downtime
+**Documentation:** [project report (PDF)](docs/rapport-projet-proxmox.pdf)
+
+### 🔹 Collaborative Web App with CI/CD
+*Cross-curricular project — UCBL, team of 6*
+
+Node.js/Express backend, authentication, PostgreSQL database, Docker
+containerization, automated tests, GitLab CI/CD pipeline and VM deployment.
+
+**Stack:** Node.js · Express · PostgreSQL · Docker · GitLab CI/CD · SonarQube
+**Results:** team of 6 · 100% automated deployment
+**Documentation:** [project presentation (PDF)](docs/presentation-projet-web.pdf)
+
+### 🔹 Cyber Risk Analysis with AI and Big Data
+*Research project — UCBL*
+
+Study combining Big Data and generative AI (LLM agents, RAG architecture) for cyber
+threat analysis, moving from a reactive approach to a proactive detection and
+decision-support method.
+
+**Stack:** Python · RAG · LLM · Big Data
+**Results:** ~85% accuracy vs manual analysis
+**Documentation:** [literature review, my contribution (PDF)](docs/revue-litterature-ia-cyber.pdf)
+
+> My personal projects and ongoing experiments are progressively versioned on this
+> GitHub profile.
+
+## Experience
+
+### Final-year internship — Procurement Management System
+**Air Algérie (IT Department) · February 2024 – June 2024**
+
+Design and development of an internal procurement management application, from
+business requirements analysis through to production deployment.
+
+- Analysis & design: business requirements gathering, application design
+- Full-stack development: Java EE/JSF backend on Payara server, SQL Server database
+- Build & integration: build automation with Maven, early integration pipeline
+  components; part of the deployment remained manual
+- Versioning: Git for team version control
+- Follow-up: technical documentation, incident tracking in a production environment
+
+`Java EE` `JSF` `Maven` `Payara` `SQL Server` `Git`
+
+**Documentation:** [full internship report (PDF)](docs/rapport-stage-air-algerie.pdf)
+
+## Academic Background
+
+| Period | Program | Institution |
+|---|---|---|
+| 2026 → | Master 2 — application in progress (Systems, Networks, Security) | Université Claude Bernard Lyon 1 |
+| 2025 – 2026 | Master 1 Computer Science | Université Claude Bernard Lyon 1 |
+| 2024 – 2025 | Master 1 Networks and Distributed Systems | USTHB |
+| 2021 – 2024 | Bachelor's in Information Systems & Software Engineering | USTHB |
+
+*The Master 1 in Networks (USTHB) was completed before moving to Lyon 1; the
+Master 1 in Computer Science at Lyon 1 allowed a transition into the French
+university system ahead of the Master 2.*
+
+<br>
+
+---
+
+<div align="center">
+
+📩 [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nacer-redjah) · 🌐 [Portfolio](https://nacer-redjah-portfolio.netlify.app)
+
+</div>

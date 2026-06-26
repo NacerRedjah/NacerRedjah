@@ -13,43 +13,89 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 
 ## Stack technique
 
-**Systèmes & Virtualisation**
+### Systèmes, virtualisation & cloud privé
 
-<img src="https://skillicons.dev/icons?i=linux,windows,vmware" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=dark&perline=8" />
+</p>
 
-`Active Directory` `Proxmox` `VirtualBox`
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/KVM-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-**Cloud & DevOps**
+### DevOps, automatisation & CI/CD
 
-<img src="https://skillicons.dev/icons?i=docker,git,gitlab,bash,kubernetes,ansible,azure" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,bash,kubernetes,ansible,azure&theme=dark&perline=8" />
+</p>
 
-`PowerShell` `OpenStack` `CI/CD`
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud--Init-0F172A?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible%20Semaphore-111827?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
-**Réseaux**
+### Monitoring & observabilité
 
-`TCP/IP` `IPv4/IPv6` `Routage` `VLAN` `LAN/WAN` `Segmentation réseau`
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark&perline=8" />
+</p>
 
-**Monitoring & Observabilité**
+<p>
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/node__exporter-0F172A?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logs%20%26%20Alerting-111827?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+### Réseaux
 
-`AlertManager` `Analyse de logs`
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IPv4%2FIPv6-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Routage-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Segmentation%20réseau-0F172A?style=for-the-badge" />
+</p>
 
-**Sécurité**
+### Cybersécurité
 
-`Analyse de risques` `IAM` `Authentification` `Contrôle d'accès` `Cryptographie` `Chiffrement`
+<p>
+  <img src="https://img.shields.io/badge/Analyse%20de%20risques-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-111827?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentification-111827?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contrôle%20d'accès-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chiffrement-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
 
-**Développement & Bases de données**
+### Développement & bases de données
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql&theme=dark&perline=10" />
+</p>
 
-`Microsoft SQL Server` `Oracle`
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSF-0F172A?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
-**Méthodologies**
+### Méthodologies
 
-`Scrum` `Agile` `Travail en équipe` `Gestion de projet collaborative` `Documentation technique`
+<p>
+  <img src="https://img.shields.io/badge/Scrum-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Travail%20en%20équipe-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Documentation%20technique-0F172A?style=for-the-badge" />
+</p>
 
----
 
 ## Expérience
 

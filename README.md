@@ -54,7 +54,7 @@ des flux.
 
 ## Projets
 
-Mes projets techniques (infrastructure, DevOps, IA appliquée à la sécurité) sont
+Mes projets académiques techniques (infrastructure, DevOps, IA appliquée à la sécurité) sont
 présentés en détail, avec contexte et résultats, sur mon
 [portfolio](https://nacer-redjah-portfolio.netlify.app/#projets).
 

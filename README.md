@@ -46,7 +46,7 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 
 <p>
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/node__exporter-0F172A?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20Exporter-0F172A?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Logs%20%26%20Alerting-111827?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
@@ -75,7 +75,7 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
 ### Développement & bases de données
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,c,cpp,mysql,postgresql,maven&theme=dark&perline=11" />
 </p>
 
 <p>
@@ -83,6 +83,7 @@ Contact : [nacer.rdj@gmail.com](mailto:nacer.rdj@gmail.com) · [LinkedIn](https:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JSF-0F172A?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payara-00A6D6?style=for-the-badge&logo=payara&logoColor=white" />
 </p>
 
 ### Méthodologies
@@ -106,7 +107,7 @@ des flux.
 
 - Analyse & conception : recueil des besoins métier, conception de l'application
 - Développement full-stack : backend Java EE/JSF sur Payara, base SQL Server
-- Intégration continue : Git, pipeline CI/CD jusqu'en production
+- Intégration continue : Git, pipeline CI/CD.
 - Monitoring : suivi temps réel des données d'approvisionnement
 - Collaboration avec l'équipe IT, documentation technique, suivi des incidents
 

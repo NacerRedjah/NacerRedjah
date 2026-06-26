@@ -122,7 +122,7 @@ de l'analyse des besoins métier jusqu'à la mise en production.
 
 | Période | Formation | Établissement |
 |---|---|---|
-| 2026 → | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
+| 2026 → 2027 | Master 2 — admission en cours (Systèmes, Réseaux, Sécurité) | Université Claude Bernard Lyon 1 |
 | 2025 – 2026 | Master 1 Informatique | Université Claude Bernard Lyon 1 |
 | 2024 – 2025 | Master 1 Réseaux et Systèmes Distribués | USTHB |
 | 2021 – 2024 | Licence Ingénierie des Systèmes d'Information et Logiciels | USTHB |
@@ -228,7 +228,7 @@ business requirements analysis through to production deployment.
 
 | Period | Program | Institution |
 |---|---|---|
-| 2026 → | Master 2 — application in progress (Systems, Networks, Security) | Université Claude Bernard Lyon 1 |
+| 2026 → 2027 | Master 2 — application in progress (Systems, Networks, Security) | Université Claude Bernard Lyon 1 |
 | 2025 – 2026 | Master 1 Computer Science | Université Claude Bernard Lyon 1 |
 | 2024 – 2025 | Master 1 Networks and Distributed Systems | USTHB |
 | 2021 – 2024 | Bachelor's in Information Systems & Software Engineering | USTHB |
